@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application TP4</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="action_settings" >setting</string>
+    <string name="action_profil">profile</string>
+    <string name="action_amis">Amis</string>
+    <string name="action_groupes">Groupes</string>
+
+    <string name="titre_section4">Saison</string>
+    <string name="titre_section0">printemps</string>
+    <string name="titre_section1">été</string>
+    <string name="titre_section2">hiver</string>
+    <string name="titre_section3" >autome</string>
+
+
+
+</resources>

@@ -1,0 +1,29 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.sc.gestiononglets.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_profil"
+        android:orderInCategory="100"
+        android:title="@string/action_profil"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_amis"
+        android:orderInCategory="100"
+        android:title="@string/action_amis"
+        app:showAsAction="never"
+        android:icon="@drawable/ic_action_name"/>
+    <item
+        android:id="@+id/action_groupes"
+        android:orderInCategory="100"
+        android:title="@string/action_groupes"
+        app:showAsAction="never"
+        />
+</menu>
+
